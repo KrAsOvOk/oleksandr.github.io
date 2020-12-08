@@ -99,7 +99,7 @@ body{
 	color: #000000;
 }
 .main__section{
-	background-image: url(/img/Background.png);
+	background-image: url(../img/background.png);
 	background-repeat: no-repeat;
 	padding: 250px 0px;
 	background-size: cover;
@@ -152,6 +152,7 @@ body{
 .first__group h2{
 	font-weight: bold;
 	font-size: 24px;
+	margin-bottom: 40px;
 }
 
 						/* Shop */
